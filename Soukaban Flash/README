@@ -1,0 +1,11 @@
+Sokoban (sokoban, warehouse keeper) is a type of transport puzzle, in which the player pushes boxes or crates around in a warehouse, trying to get them to storage locations.
+
+I've created this game to try and create an algorithm for testing collision detection without actually implimenting collision dectection algorithm.
+
+There are two flash files
+	1. Soukaban animated.fla
+	2. soukaban.fla
+	
+In soukaban.fla, users can create and test their own design.
+
+There is an executable file for those who just want to play :).
